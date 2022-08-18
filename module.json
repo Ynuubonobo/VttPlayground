@@ -11,6 +11,6 @@
 		"verified": "10"
 	},
 	"scripts": [
-		"scripts/todo-list.js"
+		"scripts/TestForFun.js"
 	  ]
 }
