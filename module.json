@@ -1,15 +1,15 @@
 {
-	"name": "VttPlayground",
-	"title": "Test - An Example FVTT Module",
-	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
 	"authors": [{
 		"name": "Ynuubonobo"
 	}]
 	,
+	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+	"name": "VttPlayground",
 	"scripts": [
 		"scripts/TestForFun.js"
-	  ]
-	  ,
+	  ],
+	
+	"title": "Test - An Example FVTT Module",
 	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "9",
