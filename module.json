@@ -4,13 +4,15 @@
 	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
 	"authors": [{
 		"name": "Ynuubonobo"
-	}],
+	}]
+	,
+	"scripts": [
+		"scripts/TestForFun.js"
+	  ]
+	  ,
 	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "10"
-	},
-	"scripts": [
-		"scripts/TestForFun.js"
-	  ]
+	}
 }
